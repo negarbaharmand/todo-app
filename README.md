@@ -1,4 +1,4 @@
-# Simple-Todo
+# Todo-App
 A simple Todo app created with React
 This repository contains a TODO list application built using React. It allows users to add, edit and remove tasks, as well as mark them as complete.
 
