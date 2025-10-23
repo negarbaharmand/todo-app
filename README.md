@@ -26,7 +26,7 @@ npm install
 
 ```
 
-### Feel free to read more about the project on my [blog]([https://negarbaharmand.com/posts/todo/](https://negarbaharmand.com/posts/todo-react/).
+### Feel free to read more about the project on my [blog](https://negarbaharmand.com/posts/todo-react/).
 
 
 Start the development server:
